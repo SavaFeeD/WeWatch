@@ -1,0 +1,18 @@
+export default {
+  default: 'base-modal-default',
+  login: 'base-modal-login',
+  welcome: 'base-modal-welcome',
+  buyChn: 'base-modal-buy-chn',
+  payment: 'base-modal-payment',
+  qr: 'base-modal-qr',
+  setUpAccount: 'base-modal-set-up-account',
+  deleteAccount: 'base-modal-delete-account',
+  changePassword: 'base-modal-change-password',
+  changePasswordStepTwo: 'base-modal-change-password-step-two',
+  changeEmail: 'base-modal-change-email',
+  changeEmailStepTwo: 'base-modal-change-email-step-two',
+  success: 'base-modal-sucess',
+  confirm: 'base-modal-confirm-code',
+  sumSub: 'sum-sub',
+  confirmEmail: 'base-confirm-email',
+};

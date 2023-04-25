@@ -1,0 +1,31 @@
+import Vue from 'vue';
+
+// import BaseModalContainer from '~/components/BaseModalContainer';
+// import BaseModalBox from '~/components/BaseModalBox';
+// import BaseBtn from '~/components/ui/BaseBtn';
+// import BaseMiniBtn from '~/components/ui/BaseMiniBtn';
+// import BaseBtnLogin from '~/components/ui/BaseBtnLogin';
+// import BaseInput from '~/components/ui/BaseInput';
+// import BaseTooltip from '~/components/ui/BaseTooltip';
+// import BaseCheckbox from '~/components/ui/BaseCheckbox';
+// import BaseDropdown from '~/components/ui/BaseDropdown';
+// import LoaderScreen from '~/components/widgets/LoaderScreen';
+// import Status from '~/components/ui/Status';
+// import Discount from '~/components/ui/Discount';
+// import BaseInputWithOptions from '~/components/ui/BaseInputWithOptions';
+// import Popover from '~/components/Popover';
+//
+// Vue.component('base-modal-container', BaseModalContainer);
+// Vue.component('base-modal-box', BaseModalBox);
+// Vue.component('base-btn', BaseBtn);
+// Vue.component('base-mini-btn', BaseMiniBtn);
+// Vue.component('base-btn-login', BaseBtnLogin);
+// Vue.component('base-input', BaseInput);
+// Vue.component('base-tooltip', BaseTooltip);
+// Vue.component('base-checkbox', BaseCheckbox);
+// Vue.component('base-dropdown', BaseDropdown);
+// Vue.component('loader-screen', LoaderScreen);
+// Vue.component('badge-status', Status);
+// Vue.component('badge-discount', Discount);
+// Vue.component('base-input-with-options', BaseInputWithOptions);
+// Vue.component('step-popover', Popover);
